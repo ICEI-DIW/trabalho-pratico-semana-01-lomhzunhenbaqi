@@ -3,11 +3,12 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: Vitor Tianyang Ji
+Matricula: 891539
 
 ## Tela de inspeção com navegador
+![imagem1](https://github.com/user-attachments/assets/ccbd6d4b-bc32-422f-a6ef-4d1d571f9399)
 
 
 ## Tela de projeto no Replit
-
+![imagem2](https://github.com/user-attachments/assets/a65ad1bf-d56e-46af-9234-602bc552ed00)
